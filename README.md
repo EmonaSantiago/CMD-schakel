@@ -1,2 +1,3 @@
 # CMD-schakel
-CMD schakelprogramma documentatie
+CMD schakelprogramma documentatie 
+BEKIJK DE [WIKI!!!]()
